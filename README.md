@@ -8,11 +8,11 @@ Streamline is a Torrent Downloader and Streamer.
 
 ## Clone Files (Using GIT)
 ```
-> git clone https://github.com/Thedevmaker2000/Streamline.git && cd Streamline
+git clone https://github.com/Thedevmaker2000/Streamline.git && cd Streamline
 ```
 # Install Dependencies/Requirements
 ```
->pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 Dependencies
@@ -24,4 +24,5 @@ Dependencies
 ```
 npm install -g peerflix
 ```
-
+`3. VLC`
+> https://www.videolan.org/vlc/
