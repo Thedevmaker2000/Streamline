@@ -1,5 +1,6 @@
 # Streamline
-Streamline is a Torrent Downloader and Streamer.
+Streamline is a Torrent Downloader and Streamer. Unlike most python torrent downloader and streamers, This uses peerflix as its streaming service for instead of webtorrent-cli because of restrictions with magnet links.
+
 
 
 
@@ -15,7 +16,7 @@ git clone https://github.com/Thedevmaker2000/Streamline.git && cd Streamline
 pip install -r requirements.txt
 ```
 
-Dependencies
+# Dependencies
 
 `1. NPM`
 > https://nodejs.org/en/download/
@@ -26,6 +27,9 @@ npm install -g peerflix
 ```
 `3. VLC`
 > https://www.videolan.org/vlc/
+
+`4. VPN (Optional but Recommended.)`
+> https://protonvpn.com
 
 # VLC Connection
 
