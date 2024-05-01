@@ -26,3 +26,17 @@ npm install -g peerflix
 ```
 `3. VLC`
 > https://www.videolan.org/vlc/
+
+# VLC Connection
+
+![image](https://github.com/Thedevmaker2000/Streamline/assets/95436748/345fa202-5558-4c5d-bffc-74f8f504b38c)
+
+>Click Network Stream (Or Control + N)
+
+![image](https://github.com/Thedevmaker2000/Streamline/assets/95436748/8c5975c7-c320-493f-b96c-8bd2b1766e32)
+
+> VLC Url that streamline provides
+
+
+![image](https://github.com/Thedevmaker2000/Streamline/assets/95436748/ca04da37-03f4-430e-b5fb-39f7a5569461)
+
